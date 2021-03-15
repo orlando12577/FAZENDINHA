@@ -21,7 +21,7 @@ public class Cavalo {
         System.out.println("cor:"+ this.cor);
         System.out.println("idade:"+ this.idade);
         System.out.println("e de corrida?"+ this.corrida);
-        System.out.println("ja foi premiado"+ this.premiado);
+        System.out.println("ja foi premiado?"+ this.premiado);
         
 }
 
